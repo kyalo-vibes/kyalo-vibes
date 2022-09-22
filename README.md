@@ -17,7 +17,7 @@
 
 ## 💬 Connect with me : 
 
-<a href="https://www.linkedin.com/in/kyalo-vibes">
+<a href="https://www.linkedin.com/in/kevin-kyalo">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30" target="_blank"/>
 </a>
 <a href="https://twitter.com/kyalo_vybz">
