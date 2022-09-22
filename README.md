@@ -18,13 +18,13 @@
 ## 💬 Connect with me : 
 
 <a href="https://www.linkedin.com/in/kyalo-vibes">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30" target="_blank"/>
 </a>
 <a href="https://twitter.com/kyalo_vybz">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40" target="_blank"/>
 </a>
 <a href="mailto:kevin.kioko4@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40" target="_blank"/>
 </a>
 
 <!---
