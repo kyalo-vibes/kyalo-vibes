@@ -31,10 +31,6 @@ Tools: ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-bad
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40" target="_blank"/>
 </a>
 
-## Statistics :bar_chart:
-
-![Kevin Kyalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyalo-vibes&show_icons=true&theme=dracula)
-
 <!---
 kyalo-vibes/kyalo-vibes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
