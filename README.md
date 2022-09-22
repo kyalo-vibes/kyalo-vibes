@@ -3,7 +3,7 @@
 - 👨‍💻 3 months experience in Python(Flask) for backend development.
 - 🌱 I'm currently learning:
       • Javascript Fundamentals
-      • Reaact framework
+      • React framework
       • Java and Spring boot 
 - 👀 I’m interested in software development of Fintech solutions.
 - 💞️ I’m looking to collaborate on Java and Python projects.
