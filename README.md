@@ -6,9 +6,8 @@
       • Javascript Fundamentals
       • React framework
       • Java and Spring boot 
-- 👀 I’m interested in software development of Fintech solutions.
-- 💞️ I’m looking to collaborate on Java and Python projects.
-- 📫 Reach me on my email @ kevin.kioko4@gmail.com
+- 😄 I’m interested in software development of Fintech solutions.
+- 👀 I’m looking to collaborate on Java and Python projects.
 
 ## 💼 Tech Stack
 
