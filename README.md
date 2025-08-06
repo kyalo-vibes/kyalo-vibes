@@ -2,7 +2,7 @@
 
 🚀 A growth-minded full-stack software engineer based in Nairobi, Kenya — passionate about building secure, scalable fintech systems.  
 
-💻 3+ years of experience in backend development using **Java (Spring Boot)** and **Javascript (React)**, working with **microservices**, **Kafka**, and **event-driven architectures**.  
+💻 3+ years of experience in backend development using **Java (Spring Boot)** and **Javascript (Node.js)**, working with **microservices**, **Kafka**, and **event-driven architectures**.  
 🌐 On the frontend, I enjoy building intuitive interfaces with **React** and **Next.js**.  
 🔭 Currently solving complex challenges at **Co-operative Bank of Kenya**.
 
