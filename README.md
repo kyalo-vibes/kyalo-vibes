@@ -2,7 +2,7 @@
 
 🚀 A growth-minded full-stack software engineer based in Nairobi, Kenya — passionate about building secure, scalable fintech systems.  
 
-💻 3+ years of experience in backend development using **Java (Spring Boot)**, working with **microservices**, **Kafka**, and **event-driven architectures**.  
+💻 3+ years of experience in backend development using **Java (Spring Boot)** and **Javascript (React)**, working with **microservices**, **Kafka**, and **event-driven architectures**.  
 🌐 On the frontend, I enjoy building intuitive interfaces with **React** and **Next.js**.  
 🔭 Currently solving complex challenges at **Co-operative Bank of Kenya**.
 
@@ -17,7 +17,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -26,6 +25,8 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
